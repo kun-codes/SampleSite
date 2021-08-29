@@ -33,6 +33,7 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "5.4.1",
     "siteFonts": [],
+    "publishChangesOnly": false,
     "uniqCompNum": 2,
     "versionPublish": "5.4.1"
   },
