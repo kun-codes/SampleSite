@@ -39,7 +39,7 @@
         "url": "https://fonts.googleapis.com/css?family=Jost:100,200,300,400,500,600,700,800,900,100i,200i,300i,400i,500i,600i,700i,800i,900i"
       }
     ],
-    "publishChangesOnly": true,
+    "publishChangesOnly": false,
     "uniqCompNum": 8,
     "versionPublish": "5.4.1",
     "screenshot": "screenshot.png",
